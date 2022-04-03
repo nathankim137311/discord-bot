@@ -1,7 +1,10 @@
+# Notes
+- Strikethrough means that the idea has been officially added to the project as an issue / stretch goal
+
 # General
 Dice roller
-- Can roll multiple dice / types of dice, get a cleanly formatted result
-- Dice roll gif
+- ~~Can roll multiple dice / types of dice, get a cleanly formatted result~~
+- ~~Dice roll gif~~
 
 # Assigning Teams / Roles
 Basic system components:
