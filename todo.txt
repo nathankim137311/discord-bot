@@ -1,0 +1,18 @@
+// const { SlashCommandBuilder } = require('@discordjs/builders');
+
+// module.exports = {
+// 	data: new SlashCommandBuilder()
+// 		.setName('visibility')
+// 		.setDescription('Toggle show / hide results of a dice role')
+// 		.addStringOption(option => 
+// 			option.setName('toggle')
+// 				.setDescription('show / hide')
+// 				.setRequired(true)
+//                 .addChoice('show')
+//                 .addChoice('hide')
+// 		),
+// 	async execute(interaction) {
+// 		const visibility = await interaction.options.getString('toggle')
+// 	}
+// 	// figure out assigning roles first so that we can toggle send ephemeral messages
+// }
